@@ -18,5 +18,15 @@
             "id": false,
             "proof_of_residence": false
         }
+    },
+    "a@gmail.com": {
+        "name": "a",
+        "age": 20,
+        "approved": false,
+        "documents": {
+            "photo": false,
+            "id": false,
+            "proof_of_residence": false
+        }
     }
 }
