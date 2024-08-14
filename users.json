@@ -1,0 +1,22 @@
+{
+    "petergriffins@gmail.com": {
+        "name": "peter griffins",
+        "age": 25,
+        "approved": true,
+        "documents": {
+            "photo": true,
+            "id": true,
+            "proof_of_residence": true
+        }
+    },
+    "herve@gmail.com": {
+        "name": "herve",
+        "age": 19,
+        "approved": false,
+        "documents": {
+            "photo": false,
+            "id": false,
+            "proof_of_residence": false
+        }
+    }
+}
